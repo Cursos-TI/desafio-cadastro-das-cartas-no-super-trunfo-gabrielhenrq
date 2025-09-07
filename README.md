@@ -83,12 +83,4 @@ No nível Mestre, você implementará a comparação entre duas cartas e o cálc
 *   Mesma entrada dos níveis anteriores, mas a População agora é `unsigned long int`.
 *   A saída mostrará o resultado da comparação para cada atributo e o Super Poder.
 
-**Observação:**  Preste atenção à conversão de tipos ao calcular o Super Poder!
 
-
-## 🏁 Conclusão
-
-Ao concluir qualquer um dos níveis, você terá dado um passo importante no desenvolvimento do Super Trunfo - Países. Boa sorte e divirta-se programando!
-
-Equipe de Ensino - MateCheck
-content_copy
